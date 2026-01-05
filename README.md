@@ -1,6 +1,6 @@
-# Steel-manufacturing-optimization    
+# Steel-manufacturing-optimization                                
 Data analytics project focused on optimizing steel manufacturing using EDA, preprocessing, and business-driven optimization insights.
-# Optimization of Steel Manufacturing
+# Optimization of Steel Manufacturing                                                
 
 ## Problem Statement   
 Inconsistent material mix and power consumption were causing quality issues and increased production cost.  
@@ -10,8 +10,8 @@ The objective was to optimize material usage, energy consumption, and overall pr
 - Performed extensive EDA and statistical analysis
 - Detected and treated outliers using IQR method
 - Normalized and log-transformed skewed features
-- Analyzed relationships between energy, production, and quality
-- Identified key optimization opportunities
+- Analyzed relationships between energy, production, and quality                            
+- Identified key optimization opportunities                    
 
 ## Tools & Techniques   
 - Python (Pandas, NumPy, Scikit-learn)
@@ -20,8 +20,8 @@ The objective was to optimize material usage, energy consumption, and overall pr
 - Business Optimization & Insight Generation
 - Visualization & Reporting
 
-## Business Impact   
+## Business Impact                                
 - Improved energy efficiency per ton of production  
 - Reduced material waste  
 - Identified high-cost production grades  
-- Provided actionable recommendations for process improvement   
+- Provided actionable recommendations for process improvement                               
