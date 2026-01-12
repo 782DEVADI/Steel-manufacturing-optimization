@@ -23,4 +23,4 @@ The objective was to optimize material usage, energy consumption, and overall pr
 - Improved energy efficiency per ton of production  
 - Reduced material waste                                                                                                                      
 - Identified high-cost production grades                                                                                                                                                     
-- Provided actionable recommendations for process improvement                                                                                                                                                                                                      
+- Provided actionable recommendations for process improvement.                                                                                                                                                                                                      
