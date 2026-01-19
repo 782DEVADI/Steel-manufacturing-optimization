@@ -3,14 +3,14 @@ Data analytics project focused on optimizing steel manufacturing using EDA, prep
 # Optimization of Steel Manufacturing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
 ## Problem Statement                                                                                                                                                                                        
 Inconsistent material mix and power consumption were causing quality issues and increased production cost.  
-The objective was to optimize material usage, energy consumption, and overall production efficiency.                                                                
+The objective was to optimize material usage, energy consumption, and overall production efficiency.                                                                              
                                                                                                                                                                                          
 ## What I Did                                                                                                                                                                                                                                                                                                                
 - Performed extensive EDA and statistical analysis                                                                                                                                   
 - Detected and treated outliers using IQR method                                                                                                                                                                  
-- Normalized and log-transformed skewed features
-- Analyzed relationships between energy, production, and quality                                                                                                               
-- Identified key optimization opportunities                                                                                                                                                             
+- Normalized and log-transformed skewed features                    
+- Analyzed relationships between energy, production, and quality                                                                                                                          
+- Identified key optimization opportunities                                                                                                                                                                     
                                                                                                                                                                                             
 ## Tools & Techniques                                                                                                                                                                                       
 - Python (Pandas, NumPy, Scikit-learn)                                             
