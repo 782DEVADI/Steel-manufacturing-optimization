@@ -13,13 +13,13 @@ The objective was to optimize material usage, energy consumption, and overall pr
 - Identified key optimization opportunities                                                                                                                                                                     
                                                                                                                                                                                             
 ## Tools & Techniques                                                                                                                                                                                       
-- Python (Pandas, NumPy, Scikit-learn)                                                                                                         
+- Python (Pandas, NumPy, Scikit-learn)                                                                                                                                               
 - EDA & Feature Engineering                                                                                                                     
 - Data Cleaning & Preprocessing                                                                              
 - Business Optimization & Insight Generation                                                                                               
-- Visualization & Reporting                                                                                                                                                                                                                                                                                                                                                                                                      
+- Visualization & Reporting                                                                                                                                                                                                                                                                                                                                                                                                         
 ## Business Impact                                                                                                                                                                                          
 - Improved energy efficiency per ton of production  
-- Reduced material waste                                                                                                                      
+- Reduced material waste                                                                                                                                                      
 - Identified high-cost production grades                                                                                                                                                     
 - Provided actionable recommendations for process improvement                                                                                                                                                                                                      
